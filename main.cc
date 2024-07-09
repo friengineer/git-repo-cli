@@ -1,7 +1,3 @@
-// C++ Git interface
-// Author: Reece Dudley (ll16rdjd)
-// Date: November 2018
-
 #include <iostream>
 #include "hci0.h"
 #include "gitpp5.h"
