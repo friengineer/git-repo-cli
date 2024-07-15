@@ -1,10 +1,9 @@
-
 #include "hci0.h"
 
-std::ostream& HCI::out(){
+std::ostream& HCI::out() {
 	return std::cout;
 }
-std::istream& HCI::in(){
+std::istream& HCI::in() {
 	return std::cin;
 }
 HCI_BEEP hci_beep;
